@@ -6,8 +6,8 @@ import Footer from "./_components/footer";
 const Layout = ({ children }: ChildProps) => {
   return (
     <main>
-      <Navbar />
-      <div className="container">{children}</div>
+  <Navbar />
+  <div className="container mx-auto">{children}</div>
       <Footer />
     </main>
   );

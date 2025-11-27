@@ -25,7 +25,7 @@ const AboutPage = () => {
         </div>
       </div>
       <h1 className="text-center text-4xl font-mono">
-        We are the Wenaco, <br /> Team of content creators and editors
+        We are the Wardens, <br /> Team of content creators and editors
       </h1>
       <div className="grid grid-cols-4 gap-4 min-h-96 mt-6">
         <div className="col-span-2 max-md:col-span-4 relative h-80">

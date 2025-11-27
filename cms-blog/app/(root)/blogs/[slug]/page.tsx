@@ -31,7 +31,7 @@ const SlugPage = ({ params }: { params: { slug: string } }) => {
             height={30}
             className="object-cover rounded-sm"
           />
-          <p>by Wenaco</p>
+          <p>by Wardens</p>
         </div>
         <Minus />
         <div className="flex items-center gap-2">

@@ -34,8 +34,8 @@ const Mobile = () => {
         <SheetHeader>
           <SheetTitle className="sr-only">navigation</SheetTitle>
         </SheetHeader>
-        <Link href={"/"}>
-          <h1 className="text-4xl font-mono">wenaco</h1>
+        <Link href={'/'}>
+          <h1 className="text-4xl font-mono">wardens</h1>
         </Link>
         <Separator className="my-3" />
         <div className="flex flex-col space-y-3">

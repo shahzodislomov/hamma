@@ -14,24 +14,24 @@ export const navLinks = [
 ];
 
 export const popularCategories = [
-   {name: 'Front End', slug: 'front-end'},
-   {name: 'Back End', slug: 'back-end'},
-   {name: 'Full Stack', slug: 'full-stack'},
-   {name: "Sun'iy Intelekt", slug: 'artificial-intilligence'},
+   {name: 'wireshark', slug: 'wireshark'},
+   {name: 'Certificates', slug: 'certificates'},
+   {name: 'Scriptimg', slug: 'scripting'},
+   {name: "Members", slug: 'members'},
 ]
 
 export const popularTags = [
-   {name: 'ReactJS', slug: 'react-js'},
-   {name: 'JavaScript', slug: 'java-script'},
-   {name: 'NodeJS', slug: 'node-js'},
-   {name: 'NextJS', slug: 'next-js'},
+   {name: 'Python', slug: 'python'},
+   {name: 'Powershell', slug: 'powershell'},
+   {name: 'Bash', slug: 'bash'},
+   {name: 'Brute-forcing', slug: 'brute-force'},
 ]
 export const blogs = [
 	{
 		title: 'The AGI hype train is running out of steam',
 		description:
 			'While futurists and fundraisers used to make bullish predictions about artificial general intelligence, they’ve become quieter lately. Peter Thiel.',
-		author: 'Wenaco',
+		author: 'Wardens',
 		tags: ['Machine learning'],
 		date: 'Dec 5, 2021',
 		image: '/blogs/01.jpg',
